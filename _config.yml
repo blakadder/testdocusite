@@ -1,0 +1,10 @@
+collections:
+  templates:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "templates"
+    values:
+      layout: "templates"
